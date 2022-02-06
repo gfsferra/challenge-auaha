@@ -8,7 +8,7 @@
 <a href="#tecnologias">Tecnologias</a> • 
 <a href="#autor">Autor</a> 
 </p>
-<img src="https://user-images.githubusercontent.com/83479037/152681268-342d1478-1190-4b0a-8353-3ea33d3de805.png">
+<img src="https://user-images.githubusercontent.com/83479037/152681268-342d1478-1190-4b0a-8353-3ea33d3de805.png" alt="Imagem meramente ilustrativa do site">
 <div id="objetivo">
   <h1>Objetivo</h1>
   <p>O objetivo desse projeto foi contruir um site institucional responsivo para o processo seletivo da empresa Auaha, usando as linguagens HMTL5, CSS3, JS/jQuery</p>
