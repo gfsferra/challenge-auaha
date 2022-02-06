@@ -1,5 +1,5 @@
 # challenge-auaha
-<h1 align="center">TESTE PRATICO AUAHA</h1>
+<h1 align="center">TESTE PRÁTICO AUAHA</h1>
 <p align="center">Projeto realizado para a criação de uma página institucional para o processo seletivo da empresa Auaha</p>
 <p align="center">
 <a href="#objetivo">Objetivo</a> •
