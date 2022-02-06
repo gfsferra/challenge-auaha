@@ -16,7 +16,7 @@
   <h1>Status</h1>
   <p>Em construção</p>
 <div id="instrucoes">
-  <h1>Instrucoes</h1>
+  <h1>Instruções</h1>
   <p>Baixar a pasta <a href="https://github.com/Hyperzinhu/challenge-auaha/tree/main/challenge-auaha">challenge-auaha</a> e executar o arquivo index.html</p>
 <div id="tecnologias">
   <h1>Tecnologias Utilizadas:</h1>
