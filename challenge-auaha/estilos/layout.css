@@ -29,21 +29,21 @@ div#centro ul li p#mimg1 {
     width: 420px;
     height: 170px;
     background-image: url(../imagens/img_mini1.png);
-    background-position: center center;
+    background-position: center;
 }
 
 div#centro ul li p#mimg2 {
     width: 420px;
     height: 170px;
     background-image: url(../imagens/img_mini2.png);
-    background-position: center center;
+    background-position: center;
 }
 
 div#centro ul li p#mimg3 {
     width: 420px;
     height: 170px;
     background-image: url(../imagens/img_mini3.png);
-    background-position: center center;
+    background-position: center;
 }
 
 div#centro ul li {
