@@ -8,7 +8,7 @@
 <a href="#tecnologias">Tecnologias</a> • 
 <a href="#autor">Autor</a> 
 </p>
-![image](https://user-images.githubusercontent.com/83479037/152681268-342d1478-1190-4b0a-8353-3ea33d3de805.png)
+<img src="https://user-images.githubusercontent.com/83479037/152681268-342d1478-1190-4b0a-8353-3ea33d3de805.png">
 <div id="objetivo">
   <h1>Objetivo</h1>
   <p>Site feito com o objetivo de concluir o teste pratico do processo seletivo da empresa auaha.</p>
